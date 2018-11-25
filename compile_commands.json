@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yousuf/sample/build",
+  "command": "/usr/local/bin/clang  -I/home/yousuf/libcs1010/include    -g -Wall -Wextra -Wpedantic -Wdocumentation -o CMakeFiles/test.dir/src/test.c.o   -c /home/yousuf/sample/src/test.c",
+  "file": "/home/yousuf/sample/src/test.c"
+}
+]

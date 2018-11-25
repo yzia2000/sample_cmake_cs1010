@@ -1,0 +1,1 @@
+/usr/local/bin/clang   -rdynamic CMakeFiles/test.dir/src/test.c.o  -o ../bin/test  -L/home/yousuf/libcs1010/lib -Wl,-rpath,/home/yousuf/libcs1010/lib -lm -lcs1010 

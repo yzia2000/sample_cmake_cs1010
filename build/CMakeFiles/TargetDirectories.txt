@@ -1,0 +1,3 @@
+/home/yousuf/sample/build/CMakeFiles/rebuild_cache.dir
+/home/yousuf/sample/build/CMakeFiles/test.dir
+/home/yousuf/sample/build/CMakeFiles/edit_cache.dir

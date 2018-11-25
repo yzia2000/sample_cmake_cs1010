@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yousuf/libcs1010/include/cs1010.h
+stdio.h
+-
+limits.h
+-
+stdlib.h
+-
+string.h
+-
+float.h
+-
+
+/home/yousuf/sample/src/test.c
+cs1010.h
+/home/yousuf/sample/src/cs1010.h
+math.h
+-
+stdio.h
+-
+
